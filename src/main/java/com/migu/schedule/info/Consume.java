@@ -1,4 +1,4 @@
-package com.migu.schedule;
+package com.migu.schedule.info;
 
 /**
  * 消耗率实体
